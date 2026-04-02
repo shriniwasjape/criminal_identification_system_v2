@@ -3,6 +3,17 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png" width="32%">
+  <img src="screenshots/screenshot2.png" width="32%">
+  <img src="screenshots/screenshot3.png" width="32%">
+</p>
+
+---
+
+
 ## 🚀 Quick Start
 
 **Double-click `START_V2.bat`** — or run:

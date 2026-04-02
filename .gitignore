@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# logs and databases
+logs/
+*.sqlite3
+*.db
+db_output.txt
+exports/
